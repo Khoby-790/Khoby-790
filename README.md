@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmannuel Baidoo</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Baidoo</h1>
 <h3 align="center">A Software Engineer from Accra,Ghana</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khoby-790" alt="khoby-790" /></a> </p>
